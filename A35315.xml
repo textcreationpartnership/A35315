@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Castrametation, or, The measuring out of the quarters for the encamping of an army by J.C.</title>
+            <author>Cruso, John, d. 1681.</author>
+         </titleStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35315</idno><idno type="EEBO-CITATION">11946490</idno>
+  <idno type="VID">51324</idno>
+  <idno type="EEBO-PROQUEST">2240891162</idno>
+  
+            <idno type="STC">Wing C7432</idno>
+            <idno type="STC">ESTC R879</idno>
+            <idno type="OCLC">11946490</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A35315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51324)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 62:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Castrametation, or, The measuring out of the quarters for the encamping of an army by J.C.</title>
+                  <author>Cruso, John, d. 1681.</author>
+               </titleStmt>
+               <extent>[4], 51, [6], 57-74 p. : plans  </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.C. for Andrew Crook, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Jo. Cruso.</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Includes: The order of military watches by J.C., which has special t.p.</note>
+                  <note>Imperfect: "The order of military watches" is lacking on film.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Military camps.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51324:1"/>
+            <pb facs="tcp:51324:1"/>
+            <p>
+               <hi>Castrametation,</hi> OR THE MEASVRING OVT OF THE QVARTERS FOR THE Encamping of an Army.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <p>POST TENEBRAS LVX</p>
+            </figure>
+            <p>
+               <hi>By J. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>R. C.</hi> for <hi>Andrew Crook,</hi> and are to be sold at his shop at the signe of the Greene Dragon in Saint <hi>Pauls</hi> Church-yard. 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51324:2"/>
+            <pb facs="tcp:51324:2"/>
+            <head>TO THE WORSHIPFVLL, My much honoured Friend, <hi>WILLIAM DENNY,</hi> Esq. Sergeant Major of a Regiment of FOOTE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T pleased a Noble friend to say of the Lord <hi>du Praissac's</hi> Discourses (by mee lately <hi>Englished</hi>) as <hi>Aristotle</hi> said of his owne writings, <hi>Se scripsisse &amp; non scripsisse.</hi> For that he con<g ref="char:EOLhyphen"/>ceived a man must be a good Souldier, be<g ref="char:EOLhyphen"/>fore he shall be able well to understand him; he is so full and compendious: And therfore wished that as our Geographers first shew the whole world in one sheet of paper, but then give large descriptions and particular Maps of every Province, so there might be a Comment upon some
+<pb facs="tcp:51324:3"/>Chapters to make them intelligible, and profitable to all.</p>
+            <p>Of the first Chapter (the <hi>Exercise of Armes and Military Motions, &amp;c.</hi>) many bookes are obvious; and therefore I have thought fittest to begin at the second, which is of <hi>Castrametation</hi> or <hi>Encamping;</hi> wherein I have desired to be the more large, because our Nation is not beholden to any (to my knowledge) that hath laboured therein; and the deputy Lieutenants of this Coun<g ref="char:EOLhyphen"/>ty, finde a want of men fit to be Quarter-masters. I have desired your Patronage, both in respect of my many obligations; as also for that I know you able to correct what is amisse, and courteous to pardon it. And as this small Essay shall find ac<g ref="char:EOLhyphen"/>ceptance, I shall direct my selfe (as leisure and my poore stocke of knowledge shall serve) in the undertaking of the whole worke. Meane time I kisse your hands, and rest</p>
+            <closer>
+               <signed>
+                  <hi>Your Humble Servant,</hi>
+                  <lb/> JO. CRVSO.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:51324:3"/>
+            <head>CASTRAMETATION, OR, The measuring out of the Quarters for the Encamping of an Armie.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CAP. I.</hi> What <hi>Castrametation</hi> is, and of the severall kinds of Camps.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">C</seg>Astrametation</hi> (a word bor<g ref="char:EOLhyphen"/>rowed from the <hi>Romans</hi>) is the measuring out of the Quar<g ref="char:EOLhyphen"/>ters, for the <hi>Encamping</hi> of an Armie.</p>
+               <p>Of Camps there bee three kinds. 1. <hi>Castra Temporanea.</hi> 2. <hi>Castra Sustentoria.</hi> 3. <hi>Castra Strataria.</hi>
+               </p>
+               <p>
+                  <hi>Castra Temporanea,</hi> is a temporarie Campe, which is but for a nights continuance, or so; and is alwayes in motion.</p>
+               <pb n="2" facs="tcp:51324:4"/>
+               <p>
+                  <hi>Castra Sustentoria,</hi> is a flying Armie, to stay an Ene<g ref="char:EOLhyphen"/>mies invasion, and to hinder him from advancing fur<g ref="char:EOLhyphen"/>ther into the Country; to that end alwayes attending his motions, dislodging when he dislodgeth, and encam<g ref="char:EOLhyphen"/>ping when he encampeth.</p>
+               <p>
+                  <hi>Castra Strataria,</hi> is a Campe to environ and besiege a Towne or Fortresse.</p>
+               <p>When the Army marcheth, so long as the Enemy bee farre of, and that the Country be at your devotion, it may be lodged in Villages, (staying but a night, or so) yet must you not omit the usuall Guards and Sentinels: But if you march through the Enemies Country, or that he be neere hand, the best way is to lodge in the field; for that you shal be the more ready to make resistance, if you should be charged on the suddaine. All possible care must be taken to arrive before night (the Generall having sent a good party of Cavallerie before to discover about and beyond the place) and the Quarters may be secured by waggons, Freese-Ruyters, Pallisadoes, &amp;c. Or else (especially if the Army make any stay) the Infantrie are to encompasse the Quarters with a Retrenchment of six foote high and three foote thicke, for their better securi<g ref="char:EOLhyphen"/>ty; the moorish grounds may bee enclosed by Freese-Ruyters or Pallisadoes; which may be cast upon wag<g ref="char:EOLhyphen"/>gons gons when the Armie dislodgeth. Some peeces of Or<g ref="char:EOLhyphen"/>dnance may also be planted towards the Anvenues, wher the Enemies might assaile the Quarters. But if the de<g ref="char:EOLhyphen"/>signe be for some siege, when the Army is come neere to the place which is intended to bee besieged, there you make your <hi>Castra Strataria,</hi> and quarter after the third manner.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="3" facs="tcp:51324:4"/>
+               <head>
+                  <hi>CAP. II.</hi> Of the choyce of ground for the Quarters.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Efore we come to the making of these Quar<g ref="char:EOLhyphen"/>ters, some generall observations are to be pre<g ref="char:EOLhyphen"/>mised; wherein our Author and the moderne times doe agree with Antiquity, and follow the Rules of<note n="a" place="margin">Tact Cap. <hi>11.</hi>
+                  </note>
+                  <hi>Leo,</hi>
+                  <note n="b" place="margin">De re milit. lib. <hi>1.</hi> Cap. <hi>22.</hi>
+                  </note>
+                  <hi>Vegetius,</hi>
+                  <note n="c" place="margin">
+                     <hi>De Castra<g ref="char:EOLhyphen"/>metat. du Praissac.</hi> in his militarie dis<g ref="char:EOLhyphen"/>courses. Chap. 2. <hi>Freitag. in</hi> his Fortifications <hi>lib.</hi> 3. <hi>Cap.</hi> 2.</note>
+                  <hi>Hyginus Gromaticus,</hi> and others; the summe whereof are these.</p>
+               <p n="1">1. That the Quarters bee not commanded by some higher ground neere hand, whereby they might lye o<g ref="char:EOLhyphen"/>pen to the Enemies view, comming to relieve the Towne or Fortresse besieged.</p>
+               <p n="2">2. That they be seated neere some River (if it be pos<g ref="char:EOLhyphen"/>sible) for the benefit of men and cattell, for the cheaper conveyance of necessaries, for the encompassing and secu<g ref="char:EOLhyphen"/>ring of the Campe (whereby much labour and cost of Fortification is saved) and for the avoyding of the noi<g ref="char:EOLhyphen"/>somnesse of carrion, and filth, and the Butchers slaughter houses.</p>
+               <p n="3">3. That there be no woods nor groves neere, where the Enemie might lie hid, and thence continuallie vexe you; but that the ground be a plaine Champaine, that so you may discover the Enemie a farre of, and retard him by your Cannon, and have time to put your Forces into battalia.</p>
+               <p n="4">4. That there be no moorish ground nor boggs neere hand, lest your Armie grow diseased by the stenches and infectious vapours thereof.</p>
+               <p n="5">5. That the ground bee not subject to bee overflowed with water, either in Autume or Winter; or that it bee not made so by Art (either by the besieged, or such as may come to relieve them) by bringing the water up<g ref="char:EOLhyphen"/>on you from some other place, by cutting their bankes, or by meanes of their sluces.</p>
+               <p n="6">6. That there be good convenience of Forrage, Wood, and straw neere hand.</p>
+               <p n="7">
+                  <pb n="4" facs="tcp:51324:5"/> 7. That the Quarters bee not too neere the Towne, lest you be galled by their Cannon; nor too farre di<g ref="char:EOLhyphen"/>stant, lest your men which worke in the Approaches, be thereby hindred from being timelyrelieved from the Quarters.</p>
+               <p n="8">8. That the Quarters bee of fitting breadth and length according to your forces; lest that (being made too little) the souldiers bee hindred from making good defence, by reason of the straitnesse of roome; or be<g ref="char:EOLhyphen"/>ing too large, they want men to man so vast a Com<g ref="char:EOLhyphen"/>passe.</p>
+               <p n="9">9. Lastly and principally, that all the passages be well guarded, that the Enemie may not cut off your victuall. But because it seldome falleth out that a Campe hath all these conveniencies, you must labour to helpe that by Art, which nature affordeth not.</p>
+               <p>If there be any high ground neere, you may possesse it your selfe (if the condition of the place will permit it) or if there be some other convenient place neere hand, you may environ the highest ground with a Trench, and make Redoubts about it: but if the high ground bee on some passage, or place of importance, you may build a Fort upon it, and so take away the Enemies advantage.</p>
+               <p>When there is no River, you must be content to bring all necessaries to the Quarter by Waggons and Carts, taking good order that they be hired at reasonable pri<g ref="char:EOLhyphen"/>ces; and for the avoyding of stench, the Carrion must be carried out of the Quarters, and there buried in pits thereunto appointed; and the Butchers must there kill their beasts, and bury all their filth.</p>
+               <p>The Woods, if they extend not far from the Campe, may be encompassed with Trenches (if it be not too chargeable) which then are usefull to afford wood for Huttes and other uses; but if they be too far off, or of too great a circuit, they may be cut downe, or fired.</p>
+               <p>If there be water which may be kept up by the besie<g ref="char:EOLhyphen"/>ged to overflow the Campe, you must seeke to prevent it
+<pb n="5" facs="tcp:51324:5"/>by certaine bankes, or by diverting it another way, as necessity and experience will direct.</p>
+               <p>These things being well advised on, and having good information of the condition and scituation of the place which you intend to besiege, being come within 6. or 8. miles of the place, the Quartermaster Generall rides before with 80. 100. or 120. Horse to take a view of the Ground, and presently causeth a designe to bee made thereof, that so hee may the readilier and better divide the Quarters.</p>
+               <p>The Quarters are not alwaies alike, but according to the scituation of the place, and sometimes the Campe is divided into 2.3.4. or more Quarters. Their forme is ac<g ref="char:EOLhyphen"/>cording to the ground, and the quantitie of Regiments to be lodged in them.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CAP. III.</hi> Of the Quarters for the Infanterie.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>O say nothing of the Quarterings used by the Ancients, as that of <hi>Cyrus</hi> briefly described by <hi>Xenophon;</hi> that of <hi>Tamherlan</hi> described in the A<g ref="char:EOLhyphen"/>rabicke by <hi>Alhacen,</hi> and translated into French by the Abbot of <hi>Mortimer;</hi> that of the <hi>Romans</hi> described by <hi>Polybius,</hi> whereby divers designes and delineations have been made, by <hi>Patritius,</hi> the Duke of <hi>Vrbin, Robortel<g ref="char:EOLhyphen"/>lus, du Choul, Lipsius,</hi> Sir <hi>Henry Savile,</hi> Sir <hi>Clement Ed<g ref="char:EOLhyphen"/>monds,, du Praissac,</hi> the Duke of <hi>Rohan</hi> and others, (you most of them differing in something or other) howso<g ref="char:EOLhyphen"/>ever the moderne times goe upon the same grounds (as that the Generall should be lodged about the middle, to be equally neare to all places; to have his chiefe Officers, Magazine, Victuall and Baggage neare him; all these to be encompassed by the Horse, and they by the foote (be<g ref="char:EOLhyphen"/>cause they are soonest ready to resist the suddaine assaults of an Enemy) I purpose to close with the matter in hand,
+<pb n="6" facs="tcp:51324:6"/>and to treate of the Quarterings now in use, and first of the quartering of a Company of foot.</p>
+               <p>Supposing the said Company to consist of 100 men, or there-about, there is a <hi>Parallelogram</hi> of ground allow<g ref="char:EOLhyphen"/>ed for them, containing 300 foote in depth and 24 foote in breadth: whereof 180 foote in depth is allowed for the souldiers Hutts, then 20 foote is appointed (behind them) for a streete; next that 40 foote in depth is for the Captatines lodging; then 40 foote for another streete be<g ref="char:EOLhyphen"/>tweene the Captaines lodging and the Suttlers, and last of all 20 foote in depth for the Suttlers, whereof the for<g ref="char:EOLhyphen"/>most 10 foote are for their hutts, and the other 10 foote for their kitchins: which together makes 300 foot.</p>
+               <p>Now the said 24 foote of breadth for the said Compa<g ref="char:EOLhyphen"/>nie as farre as 180 foote in depth is divided into 3 equall parts, namely 8 foote for one file (or Row) of Hutts, then 8 foote for a streete, and lastly 8 foote for the se<g ref="char:EOLhyphen"/>cond file of Hutts.</p>
+               <p>Each file of Hutts is divided according as the souldi<g ref="char:EOLhyphen"/>ers desire to accommodate themselves; for one alone, there is 4 or 5 foote allowed in depth (or more if the number be smaller then 100 men) if two lodge together, they are allowed 6 or 7 foote; that so the more ground may be allowed to such souldiers as have their wife and Children there.</p>
+               <p>At the head of these 2 files of Hutts, that on the right hand is the Lieftenants Hutt, and that on the left, is the Ensignes, both fronting towards the Allarme place.</p>
+               <p>All the rest of the Hutts have their doores opening in<g ref="char:EOLhyphen"/>to the said street of 8 foote wide, over against each other, saving the 2 last Hutts, which are for the Sergeants, whose doores open into the street of 20 foote broad.</p>
+               <p>Betweene every Hutt there should be 1 or 2 foote di<g ref="char:EOLhyphen"/>stance left, for the draine of the water, and also that (if any fire should happen) it may be the sooner quenched.</p>
+               <p>No souldier is suffered to have any fire in his Hutt (it being onely built of poles and straw) but such as will
+<pb n="7" facs="tcp:51324:6"/>dresse their owne meate, are to doe it in the place ap<g ref="char:EOLhyphen"/>pointed, behinde their Suttlers Huttes.</p>
+               <p>The Souldiers build their owne Huttes, the Country people thereabout furnishing them with materials.</p>
+               <p>The Captaines have the whole breadth of 24. foote for their lodgings, their Enclosure having an opening towards the streete of 20. foote, and another towards that of 40. foote, having a trench of 5. foote high, and a moate of 4. foote depth and breadth round about them, and set about with boughs. The custome (now adaies) is that they lodge in Huttes (as being more warmer and more durable) and use Tents for their kitchins and stables.</p>
+               <p>The Suttlers doores open into the said streete of 40. foote broad.</p>
+               <p>If the Company consist of 130. 140. or 150. men, they have ground allowed them for 3. files of Huttes; if of 180. or 200. for 4. files.</p>
+               <p>To make all the more plaine, observe in figure 1. <hi>a.b.c.d.</hi> whereby the quartering of one Company is demon<g ref="char:EOLhyphen"/>strated.</p>
+               <p>A Regiment consisteth of Companies, some being of 8. other some of 10. 12. 14. 16. 18. Companies. There is also a difference in the number of each Company, where<g ref="char:EOLhyphen"/>fore their Quarters must be proportioned accordingly.</p>
+               <p>Howsoever, the depth is alwaies 300. foote, without alteration, in the Prince of <hi>Orange</hi> his warres; so saith our Author. For the French manner of Encamping, though <hi>de</hi>
+                  <note n="*" place="margin">In his For<g ref="char:EOLhyphen"/>tifications. <hi>lib.</hi> 2. <hi>part.</hi> 2. <hi>Cap.</hi> 25.</note>
+                  <hi>Ville</hi> would have a Regiment of foote to take up 600. foote in depth, whereof 400. foote for the Souldiers Huttes onely. The Collonels lodgings are al<g ref="char:EOLhyphen"/>waies in the middle; so his Regiment is divided into 2. equall parts on each hand of him (unlesse there be an odde number of Companies) and a streete of 8. foote broad betweene each Companie, into which no doores open.</p>
+               <p>He hath 68. foote of breadth (or more if the ground
+<pb n="8" facs="tcp:51324:7"/>will permit) allowed him for his lodgings; (entren<g ref="char:EOLhyphen"/>ched as the Captaines enclosures) and on each side a streete of 8. foote broad.</p>
+               <p>About 16. foote before the Lievtenants and Ensignes Huttes are croches set, with a pole a crosse at the top, there to place the Pikes of the Company, and by them a frame to lay their Muskets on, and there are the Colours also planted. But some hold it better (both for readines, incase of an Alarum, as also for keeping the Muskets cleane) that the Souldiers keepe them in their Huttes.</p>
+               <p>The figure 1. representeth a Regiment of 10. Compa<g ref="char:EOLhyphen"/>nies, of 100. men a peece, whereof.</p>
+               <p>
+                  <hi>A.</hi> Is the Collonels lodging, of 68. foote breadth: some would have him to have 76. others 78. foote, but that is left to discretion.</p>
+               <p>
+                  <hi>B.</hi> Here some would lodge the Chaplaine, Quarter-Master, Surgeon, and the like: and leave onely <hi>C.</hi> for the Collonels waggons &amp;c. Others better appoint <hi>B.</hi> and <hi>C.</hi> both for the same uses, namely <hi>B.</hi> for the Collonels kit<g ref="char:EOLhyphen"/>ching, and <hi>C.</hi> for his waggons and stables.</p>
+               <p>
+                  <hi>D.</hi> The Captaines lodgings; whereof some thinke fit that that on the right angle bee for the Lievtenant Collonell, and that on the left, for the Serjeant Major.</p>
+               <p>Others, quartering the Collonels Company outwar<g ref="char:EOLhyphen"/>dest on the right of the Regiment, appoint the Collonels Captaine lodging just in the Reare of them in <hi>D.</hi> and the Lievtenant Collonels Company next to the Collo<g ref="char:EOLhyphen"/>nels lodgings on his left hand, and himselfe in <hi>K.</hi> so e<g ref="char:EOLhyphen"/>very Captaine in the Reare of his owne Company.</p>
+               <p>
+                  <hi>E.</hi> The Quartermasters lodging.</p>
+               <p>
+                  <hi>F.</hi> The Chaplaines lodging.</p>
+               <p>
+                  <hi>G.</hi> The Surgeons lodging.</p>
+               <p>
+                  <hi>H.</hi> The Provost Marshall his lodgings: but so much ground for him is judged to be too much.</p>
+               <p>
+                  <hi>I.</hi> The Sutlers Huttes: but such streets of 8. foote are held to be needlesse betweene their Huttes, causing too much losse of ground.</p>
+               <pb n="9" facs="tcp:51324:7"/>
+               <figure>
+                  <head>Figure <hi>1.</hi>
+                  </head>
+               </figure>
+               <p>The late manner of lodging the Captaines in the Reare of their Companies, (which change was since our Author writ his booke) is for two reasons. 1. That they may the better prevent, and also punish the disor<g ref="char:EOLhyphen"/>ders usually committed in the Suttlers Huttes. 2. That the Souldiers may have the freer and readier passage into the allarum place.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IIII.</hi> Of Quartering the Cavallery.</head>
+               <p>THe Horse are usually quartered by themselves, by rea<g ref="char:EOLhyphen"/>son of inconveniencies when they bee quartered a<g ref="char:EOLhyphen"/>mongst the foot.</p>
+               <pb n="10" facs="tcp:51324:8"/>
+               <p> Every Troope of Horse is allowed 300. foot of ground in depth, and breadth according to their number.</p>
+               <p>A Troope of 100. Horse hath 70. foot of breadth, and 180. foot in depth for 2. files of Huttes and Stables. Eve<g ref="char:EOLhyphen"/>ry Souldier having 10. foot in breadth for his Hut. Next their Huttes there is a small streete of 5. foot broad, into which their doores open. Then there is 10. foot in breadth allowed (on each side) for the Stables, so that there is a street left of 20. foot broad betweene the two files of Stables, 50. Horses being placed on the one side, and 50. on the other. Every Souldier, and every stable, having 4. foot of ground in depth.</p>
+               <p>But if there be 130. or 140. Horse in a Troope, there is another file of Huts and stables allowed them, as before, and a street of 20. foot broad as the other, to divide them from the next troope.</p>
+               <p>Every Souldier hath his Horse standing just over a<g ref="char:EOLhyphen"/>gainst his owne Hut, with his head that way, that he may the better see him eate his oates.</p>
+               <p>The formost Hut on the right hand is for the Lieute<g ref="char:EOLhyphen"/>nant that on the left, for the Cornet; the two last for the Quartermaster and Corporall.</p>
+               <p>There is a row of mangers along the foreparts of the stables, over against the Riders dores, and for every horse there is a partition, made of a pole, to divide them from each other.</p>
+               <p>If the Army make any long stay, the horses are cove<g ref="char:EOLhyphen"/>red overhead (to keepe them from wet and cold) either with Canvas or straw, after the manner of a shade, but open before and behinde.</p>
+               <p>To make all the more plaine, see in figure 2. <hi>a. b. c. d.</hi> shew the manner of Quartering of one troope of 100. horse, (or thereabout) whereof the measures are mentio<g ref="char:EOLhyphen"/>ned in the figure.</p>
+               <p>A Regiment of horse confisteth (usually) of 3. or 4. troops, and are quartered as the said figure sheweth. The Collonell hath no more ground then the other Cap<g ref="char:EOLhyphen"/>taines.
+<pb n="11" facs="tcp:51324:8"/>And untill of late, the Collonels of horse in the <hi>Prince</hi> of <hi>Orange</hi> his Armie had no more pay then the other Captaines; but now there is a larger stipend gi<g ref="char:EOLhyphen"/>ven to them, and the Sergeant Major.</p>
+               <figure>
+                  <head>Figure <hi>2.</hi>
+                  </head>
+               </figure>
+               <p>
+                  <hi>A.</hi> Are the lodgings for the Collonell and other Cap<g ref="char:EOLhyphen"/>taines, (which are entrenched as those of the Infantry) that on the right hand for the Collonel (as some hold;) yet others place the Collonell in the middle, and the Ser<g ref="char:EOLhyphen"/>geant Major in <hi>A.</hi> Some make a troope of Curassiers to be 180. horse, and place the Lieutenant, Cornett, and Quartermaster, on the left of the Captaine.</p>
+               <p>
+                  <hi>B.</hi> The Souldiers huts: some make 2. foot of space be<g ref="char:EOLhyphen"/>tweene each hut, for the draine of water, and danger of fire, which I conceive to be very usefull.</p>
+               <p>
+                  <hi>C.</hi> The Stables.</p>
+               <pb n="12" facs="tcp:51324:9"/>
+               <p>
+                  <hi>D.</hi> The streete of 5. foot breadth, betweene the Soul<g ref="char:EOLhyphen"/>diers huts, and the row of Mangers, being the forepart of the Stables.</p>
+               <p>
+                  <hi>E.</hi> Are the Sutlers huts; namely, 1. for the huts, and 2. for their fires and Cookery. Some would have three crosse streets (of 8. foot broad) to runne a crosse through the Quarter, at <hi>F. G.</hi> and <hi>H.</hi> from one side to the other; others put two, one betweene <hi>F.</hi> and <hi>G.</hi> and the other be<g ref="char:EOLhyphen"/>tweene <hi>G.</hi> and <hi>H.</hi> which seemeth to be very commodi<g ref="char:EOLhyphen"/>ous, for ready passage out and in: But howsoever, the Quarter must be but 300. foot deepe.</p>
+               <p>Concerning the Sutlers huts, the leaving of so much space betweene them as is in figure 1. is conceived to bee needlesse; but onely here and there a passage; so to give them the more roome for their huts.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Of the Generals Quarter.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Or the Generall there is usually 600. foot of ground (or more, as occasion may require) al<g ref="char:EOLhyphen"/>lowed in breadth, and 300. foot in depth; and this ground is divided as in the figure 3.</p>
+               <p>
+                  <hi>A.</hi> Is the ground for the Generals lodging: wherein 1. is the Gate. 2. the dining roome. 3. the wardrobe. 4. the Bed-chamber. 5. the Councell-chamber. 6. the Kitchen, &amp;c.</p>
+               <p>
+                  <hi>B.</hi> is a large space of ground, wherein the Gentlemen meete, and recreate themselves with diverse exer<g ref="char:EOLhyphen"/>cises.</p>
+               <p>
+                  <hi>C.</hi> Are the huts, for the Wine-sellers, Beere-sellers, ser<g ref="char:EOLhyphen"/>vants, and the like.</p>
+               <p>The other squares are tents for the Secretary, Steward, and other Officers and Gentlemen attending the Gene<g ref="char:EOLhyphen"/>rall: also the Hall, Buttery, Pantery, &amp;c.</p>
+               <pb n="13" facs="tcp:51324:9"/>
+               <figure>
+                  <head>Figure <hi>3.</hi>
+                  </head>
+               </figure>
+               <p>
+                  <hi>D.</hi> The Stables. <hi>E.</hi> the stable for the Gentlemen. <hi>F.</hi> a place for the waggons belonging to the Court. <hi>G.</hi> Court du guard for the Generall.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="14" facs="tcp:51324:10"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Of the Generall of the Artillery his Quarter.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Generall of the Artillery hath 480. foot in breadth for his Quarter, (or more if oc<g ref="char:EOLhyphen"/>casion serveth) and 300. foote in depth; and may be divided as in Figure 4. How<g ref="char:EOLhyphen"/>soever some doe somewhat vary from this fi<g ref="char:EOLhyphen"/>gure; which is left to the liberty and discretion of the Quartermasters.</p>
+               <figure>
+                  <head>Figure <hi>4.</hi>
+                  </head>
+               </figure>
+               <p>
+                  <hi>A.</hi> Is the Generall of Artillery his lodging.</p>
+               <p>
+                  <hi>B.</hi> The lodging for the Lieutenant and the Gentlemen.</p>
+               <pb n="15" facs="tcp:51324:10"/>
+               <p>
+                  <hi>C.</hi> The Magazine of Artillerie, Commissary, Control<g ref="char:EOLhyphen"/>lor, and Conductors.</p>
+               <p>
+                  <hi>D.</hi> The Magazine of the Munitions of warre, with the Commissary, Controllor, and Conductors thereof.</p>
+               <p>
+                  <hi>E.</hi> Ingeniers with their Conductors and Controllors of the Fortifications, with their Conductors, Commis<g ref="char:EOLhyphen"/>sary, and Clerke.</p>
+               <p>
+                  <hi>F.</hi> The Mr. Gunner, with his Cannoniers, Mr. of Fire-workes, with his Conductors, Petardier, and Bat<g ref="char:EOLhyphen"/>tery Master.</p>
+               <p>
+                  <hi>G.</hi> Mr. Carpenter, his Lieutenant and Journey-men, Wheele-wrights, Smiths, Gabion Master, Wheele grea<g ref="char:EOLhyphen"/>sers, Cooper, Provost of the Artillery with his Officers, and Surgeon of the Artillery.</p>
+               <p>
+                  <hi>H.</hi> Mariners to draw the Ordnance.</p>
+               <p>
+                  <hi>I.</hi> Pioners and Winers.</p>
+               <p>
+                  <hi>K.</hi> Common place, for men and Waggons, (having businesse in this quarter) to meete in.</p>
+               <p>
+                  <hi>L.</hi> A spare place for accidentall imployment.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of the Quarters for the Officers of the Field.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Officers of the Field, have 380. (some<g ref="char:EOLhyphen"/>times 400,) foote of ground in breadth for their Quarter, and 300. foot in depth, where<g ref="char:EOLhyphen"/>of the divisions are demonstrated in Figure 5.</p>
+               <p>
+                  <hi>A.</hi> Generall of the Horse.</p>
+               <p>
+                  <hi>B.</hi> Generall of the Foote.</p>
+               <p>
+                  <hi>C.</hi> Lieutenant Generall of the Horse.</p>
+               <p>
+                  <hi>D.</hi> Commissary, and Quartermaster of the Horse.</p>
+               <p>
+                  <hi>E.</hi> President, Fiscall, and secretary of the Counsell of Warre.</p>
+               <p>
+                  <hi>F.</hi> Provost Generall.</p>
+               <pb n="16" facs="tcp:51324:11"/>
+               <figure>
+                  <head>Figure <hi>5.</hi>
+                  </head>
+               </figure>
+               <p>
+                  <hi>G.</hi> Sergeant Major Generall.</p>
+               <p>
+                  <hi>H.</hi> Quartermaster Generall, and the Commissary of the Treasury.</p>
+               <p>
+                  <hi>I.</hi> Commissaries of Masters.</p>
+               <p>
+                  <hi>K.</hi> Chaplaines, Physician, and Surgeon to the Court.</p>
+               <p>The spaces are streetes of 20. foot broad, to give con<g ref="char:EOLhyphen"/>venient accesse for Waggons, Horse, and Foot; for all men to come to their lodgings. Some doe somewhat vary from this forme, in making this Quarter; where<g ref="char:EOLhyphen"/>in every Quarter master Generall may use his discretion.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="17" facs="tcp:51324:11"/>
+               <head>CHAP. <hi>VIII.</hi> Of the Quarter for the Waggons.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Quarter for the waggons is alwayes 300 foote deepe, (as all other Quarters are) but the breadth must be proportioned according to the number of waggons, which sometimes take up 380 foote.</p>
+               <p>In this ground the waggons are placed in files (or Rowes) taile to taile, leaving a streets of 12 foote betweene them, wherein the waggoners may lay their for age. But betweene every couple of files there runnes a streete of 24 foote broad, for passage through the Quarter.</p>
+               <p>To each waggon with 3 horses there is 12 foote al<g ref="char:EOLhyphen"/>lowed in depth and 18 foote in breadth, namely 6 foote for the breadth of the waggon, and 12 foote for 3 horses.</p>
+               <p>The waggoners usually lodge in their waggons, or under them; but such as will build hutts, may doe it in the said streete of 12 foote broade, behind their waggon.</p>
+               <p>And howsoever there be many waggons imployed in the Armie more then are here quartered, it must be bonsi<g ref="char:EOLhyphen"/>dered that many Officers doe keepe their waggons neere them, in their owne Quarters.</p>
+               <p>On the 4 sides of the Quarter are the Suttlers Hutts which follow the waggons, which have 12 foote òf ground apeece, both in depth and breadth.</p>
+               <p>All which is more plainely shewed in figure 6. which containeth 10 files of waggons, of 14 waggons in each file, which makes together 140 waggons.</p>
+               <p>Sometimes the said streetes are ot so broad as 24 foot (if there be want of ground) that so the more waggons may be placed in the Quarter.</p>
+               <p>Some, instead of making the 4 sides of the Quarter to serve for Hutts, doe there place waggons, and leave an o<g ref="char:EOLhyphen"/>pen space (instead thereof) of 60 foote broad, in the
+<figure>
+                     <pb n="18" facs="tcp:51324:12"/>
+                     <head>Figure <hi>6.</hi>
+                     </head>
+                  </figure> middle of the Quarter from B. to A. placing the Generall of the waggons at the front thereof, allowing him 60 foote in depth: behind him they place the Lieutenant of the waggons and the Secretary, (allowing them 40 foote in depth:) behinde these, the Conductore of the waggons, giving them 48 foote in depth, the rest of the ground serving for the Suttlers Huts.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="19" facs="tcp:51324:12"/>
+               <head>CHAP. <hi>IX.</hi> Of the Market place, or Sutbers Quarter.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Or the Market place there is usually about 400 foote of ground allowed in breadth, and 300 foote in depth; wherein there be divers double files, (or Rowes) of Huttes made (for the most part 4 files on both sides of the Quarter) every Hutt having 10 foote in breadth, and a streete of 20 foote broad betweene each file of Hutts.</p>
+               <p>The 2 files of Hutts neerest to the market place are ap<g ref="char:EOLhyphen"/>pointed for the Mercers, Drapers, and other shopkeepers, the next behind them are for Innes and Tavernes; those
+<figure>
+                     <head>Figure <hi>7.</hi>
+                     </head>
+                  </figure>
+                  <pb n="20" facs="tcp:51324:13"/>behinde them are for handy-crafts men; and the last for Butchers, Bakers, and the like, whereof the figure 7 is a disignement.</p>
+               <p>From <hi>A.</hi> to <hi>B.</hi> (being the breadth of this Quarter) is 400 foote.</p>
+               <p>From <hi>A.</hi> to <hi>D.</hi> (being the depth) is 300 foot.</p>
+               <p>E. are spaces 20 foote broade, which are not streetes for passage, (as <hi>F.</hi> is) but are closed in at the endes, and serve to dresse meate in, or other conveniences for the Hutts: and into these spaces the Hutts have backdores to goe into.</p>
+               <p>F. is a streete of 20 foote broade, betweene each couple of files of Huttes. Some make a streete (of 20 or 24 foote broad) at <hi>H.</hi> and <hi>I.</hi> into the markett place.</p>
+               <p>
+                  <hi>G.</hi> is the market place, 200 foote broade</p>
+               <p>Some make 2 foote spare betweene each Hutt, for the draine of water.</p>
+               <p>There be two Quarters more, namely for the Strangers, (noble men or the like) and for the Magazine of Victual, whereof it shall be needlesse to make defignes; because the Strangers have onely a peece of ground laide out, of 300 foote deepe, and breadth according to their use; which then they cause to be divided, and place their Tentes and Hutts according to their pleasure. So the Generall of the Victuall, and Ordnance, which are ordered according to the Quarter of waggons, demonstrated in figure 6.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. <hi>X.</hi> Of the Lists, for the Quartering of the Army.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F in these times it were usuall to have an equall number of men in each Companie, an equall number of Companies in each Regiment, and an equal number of Regiments in every armie, (as the Custome was amongst the <hi>Romans</hi>) one and
+<pb n="21" facs="tcp:51324:13"/>the same forme, and the same proportion of ground would serve for the Quartering of the moderne Armies; But seeing that there is now a generall inequality of them, the Quarters must be proportioned according to the number of forces and Munitions, which are to be en<g ref="char:EOLhyphen"/>camped; Therefore the Quarter master Generall must have exact Lists of them, whereby he may know how to proportion his Quarters.</p>
+               <p>To make this the more plaine, I purpose to propound the Lists of the late <hi>Prince of Orange</hi> his Armie, Anno 1610. quartered before <hi>Gulick,</hi> for an Example; (for which I am beholden to Master <hi>Simon Steven</hi>) which were as followeth.</p>
+               <list>
+                  <item>1. A List of the Officers of the Army.</item>
+                  <item>2. A List of the Regiments of the Infantery.</item>
+                  <item>3. A List of the Regiments of the Cavallery.</item>
+                  <item>4. A List of the Artillery.</item>
+                  <item>5. A List of the Munitions.</item>
+                  <item>6. A List of the Waggons.</item>
+                  <item>7. A List of the Shipping.</item>
+               </list>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. <hi>XI.</hi> The List of the Officers of the Army.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Is Excellence.</p>
+               <p>Count <hi>Henry</hi> of Nassau (now <hi>Prince of Orange</hi>)</p>
+               <p>Generall of the Horse.</p>
+               <p>Mounsieur <hi>Marquette,</hi> his Lieutenant.</p>
+               <p>Count <hi>Ernest,</hi> Generall of the foote.</p>
+               <p>
+                  <hi>Sedleveski,</hi> Sergeant Major Generall.</p>
+               <p>Mounsieur <hi>Stakenbrooke,</hi> Commissary Generall of the Horse.</p>
+               <p>
+                  <hi>Solemne,</hi> Quarter Master Generall.</p>
+               <p>Provost Generall.</p>
+               <pb n="22" facs="tcp:51324:14"/>
+               <p> President of the Councell of warre.</p>
+               <p>Fiscall.</p>
+               <p>Secretary.</p>
+               <p>Commissary of the Freasurie.</p>
+               <p>Mounsieur <hi>Dis-Blet,</hi> waggon Master Generall.</p>
+               <p>His Lieutenant.</p>
+               <p>Quarter Master Generall of the Horse.</p>
+               <p>Physician to the Armie.</p>
+               <p>Chirurgeons to the Armie.</p>
+               <p>Provost of the water.</p>
+               <p>Three Chaplaines.</p>
+               <p>There be other Officers besides these, as namely of the Artillery, Munition, Victuall and shipping; but because they are quartered where their charge and command is, there is no cause of nanning them in this List.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. <hi>12.</hi> The List of the Regiments of Infantery.</head>
+               <div type="regiment">
+                  <head>English.</head>
+                  <p>
+                     <seg rend="decorInit">G</seg>Enerall <hi>Vere</hi> his Regiment is of 15 Companies; whereof the Collonels Companie consisteth of 200 men, and 14 Companies, of 80 men apeece; which have 32 files of Hutts. Their front takes up 580 foote of Ground, and have 1320 souldiers.</p>
+                  <p>To calculate these, observe that the Collonels Com<g ref="char:EOLhyphen"/>pany must have 4 files of Hutts: the other Companies (being 14 of 80 men in each Companie) must have 2 files of Hutts apeece; so 32 times 8. makes 256 foots; then for 32 streets of 80 foote broad, makes 256 foote more. Adde to these 68 foote for the breadth of the Collonels lodg<g ref="char:EOLhyphen"/>ings, so together it makes 580 foote.</p>
+                  <p>The number of souldiers is expressed, that so each Re<g ref="char:EOLhyphen"/>giment may know how many foote they must digge of the Retrenchment, as shall be shewed, in Chap. 21.</p>
+                  <pb n="23" facs="tcp:51324:14"/>
+                  <p> Generall <hi>Ceoill</hi> his Regiment is of 10 Companies, whereof the Collonels Companie consisteth of 200 men, and 9 Companies of 80 men apeece: which have 22 files of Hutts; their front is 452 foote broade, and they are 920 souldiers.</p>
+                  <p>Sir <hi>George Hollis</hi> his Regiment is of 10 Companies, whereof one Companie is of 90 men, 4 of 80 men apeece, and 5 of 70 men: these (being without place for the Collonell) have 20 files of Hutts; their front 320 foote, and 760 souldiers.</p>
+                  <p>Sir <hi>Hatton Cheeke</hi> his Regiment is of 10 Companies, hereof one is of 100 men, three of 90 a peece, six of 80. they have 20 files of Hutts, their front is 388 foote, and 850 souldiers.</p>
+               </div>
+               <div type="regiment">
+                  <head>Scotts.</head>
+                  <p>Collonell <hi>Hinderson</hi> his Regiment is of 19 Companies, wherof one is of 100 men, 18 of 70 men apeece; they have 38 files of Huts, their front 676 foot, and 1460 souldiers.</p>
+               </div>
+               <div type="regiment">
+                  <head>French.</head>
+                  <p>
+                     <hi>Monsieur Chastillon</hi> his Regiment is of 19 Companies, whereof the Collonells Companie hath 200 men, one Companie 100. and 17 of 80 men apeece. These have 40 files of Hutts, their front takes up 708 foot of ground, and 1660 souldiers.</p>
+                  <p>
+                     <hi>Monsieur Bethune</hi> his Regiment is of 19 Companies, whereof the Collonells Companie hath 200 men, one Companie more of 100 men, and 17 of 80 men apeece; they have 40 files of Hutts, their front is 708 foote and 1660 souldiers.</p>
+               </div>
+               <div type="regiment">
+                  <head>Dutch.</head>
+                  <p>
+                     <hi>Count Ernests</hi> Regiment is of 6 Companies; the Collo<g ref="char:EOLhyphen"/>nells Companie hath 200 men, three more of 200 men apeece, one of 150. and one of 100. they have 21 files of hutts, their front is 336 foote, and 1050 souldiers.</p>
+               </div>
+               <div type="regiment">
+                  <head>Walons.</head>
+                  <p>
+                     <hi>Count John Ernest</hi> his Regiment is of 16 Companies, whereof the Collonells Companie hath 200 men, two
+<pb n="24" facs="tcp:51324:15"/>Companies of 100. apeece, 13 of 70 men apeece: they have 34 files of Hutts, their front is 612 foote, and 1310 souldiers.</p>
+               </div>
+               <div type="regiment">
+                  <head>The foure Guards.</head>
+                  <p>One Guard of 250 men, two of 200 apeece, and one of 150. these (being without Collonells place) have 16 files of Hutts, their front is 256 foote, and they are 800 souldiers.</p>
+               </div>
+               <div type="regiment">
+                  <head>Frisons.</head>
+                  <p>
+                     <hi>Count William</hi> his Regiment is of 8 Companies, where<g ref="char:EOLhyphen"/>of the Collonels Companie hath 200 men, 7 Companies of 80 men apeece, which (being without Colonels place) have 18 files of Hutts, their front 288 foote, and they are 760 souldiers.</p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. <hi>XIII.</hi> The List of the Regiments of Cavallery.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">C</seg>Ount Henry</hi> his Regiment is of three Troopes, whereof one is of 250 men, one of 150, and one of 70, they have tenne files of Hutts, and 430 foote in breadth: which is thus calculated.</p>
+               <p>Each couple of files (as was shewed Chap. 4.) hath 70 foote in breadth; so these 5 couple of files take up 5 times 70 which is 350 foote; then the 4 streets which runne be<g ref="char:EOLhyphen"/>tweene them of 20 foote apeece making 80 foote, make the front of the Regiment (as above-said) 430 foote. And after this manner the ground for the other Regiments of Horse is to be calculated.</p>
+               <p>The number of Horse-men in each Regiment is not specified at the foote thereof (as in the Regiments of In<g ref="char:EOLhyphen"/>fanterie) because they are not imployed in the making of the Retrenchment.</p>
+               <p>Monsieur <hi>Marquette</hi> his Regiment is of 4 Troopes, whereof one of 100 men, three of 70 men apeece; they
+<pb n="25" facs="tcp:51324:15"/>have 8 siles of Hutts, and their front is 340 foote.</p>
+               <p>
+                  <hi>Monsieur Stakenbrooke</hi> his Regiment is of 4 Troopes, whereof one is of 100 men, one of 85. and 2 of 70 apeece, they have 8 files of Hutts, and their front is 340 foote.</p>
+               <p>Collonell <hi>Wagemans</hi> Regiment is of 3 Troopes, of 70 men apeece, they have 6 files of Huttes, and their front is 250 foote.</p>
+               <p>Collonell <hi>Ryhoven</hi> his Regiment is of three Troopes, of 70 men apeece, they have 6 files of Hutts, and their front is 250 foote.</p>
+               <p>Collonell <hi>Marcellis Bax</hi> his Regiment is of 4 Troopes, they have (being 70 men apeece) 8 files of Hutts, and and their front is 340 foote.</p>
+               <p>Collonell <hi>La Sale</hi> his Regiment is of 3 Troopes, of 70 men apeece, they have 6 files of Hutts, and their front is 250 foote.</p>
+               <p>Collonell <hi>Smeltsing</hi> his Regiment is of 3 Troopes, of 70 men apeece, they have 6 files of Hutts, and their front is 250 foote.</p>
+               <p>Collonell <hi>Quaet</hi> his Regiment is of 3 Troopes, of 70 men apeece, they have 6 files of Hutts, and their front is 250 foote.</p>
+               <p>
+                  <hi>Count John</hi> his Regiment is of 3 Troopes, of 70 men a<g ref="char:EOLhyphen"/>peece, they have 6 files of Hutts, and their front is 250 foote.</p>
+               <p>Collonell <hi>John Bax</hi> his Regiment is of 3 Troopes, of 70 men apeece, they have 6 files of Hutts, and their front is 250 foote.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="26" facs="tcp:51324:16"/>
+               <head>
+                  <hi>CHAP. XIV.</hi> The list of the Artillery.</head>
+               <list>
+                  <head>Ordnances.</head>
+                  <item>4 Whole Cannons, mounted on their carriages.</item>
+                  <item>8 Demy Cannons, mounted on their carriages.</item>
+                  <item>3 Field peeces, mounted on their carriges.</item>
+               </list>
+               <list>
+                  <head>Powder, match and bullets.</head>
+                  <item>153120 pound of powder.</item>
+                  <item>3000 Cannon bullets.</item>
+                  <item>6000 demy Cannon bullets.</item>
+                  <item>40 Latten bullet Cases for whole Cannons.</item>
+                  <item>20 Latten bullet Cases for demy Cannons.</item>
+                  <item>1200 bullets of 12 pound.</item>
+                  <item>3000 pound of match.</item>
+               </list>
+               <list>
+                  <head>Spare Carriages and wheeles.</head>
+                  <item>2 Carriages for whole Cannons.</item>
+                  <item>4 Carriages for demy Cannons.</item>
+                  <item>1 Carriage for a field peece.</item>
+                  <item>8 Blook carriages.</item>
+                  <item>20 Fore carriages.</item>
+                  <item>2 Wheeles for whole Cannons.</item>
+                  <item>3 Wheeles for demy Cannons.</item>
+                  <item>1 Wheele for field peeces.</item>
+                  <item>5 Wheeles for fore carriages.</item>
+                  <item>2 Carriage wheeles.</item>
+                  <item>1 Sledge carriage.</item>
+               </list>
+               <list>
+                  <head>Ʋtensills for the Ordnance.</head>
+                  <item>45 Ladles.</item>
+                  <item>45 Spunges.</item>
+                  <item>45 Rammers.</item>
+                  <item>4 Ladles for red-hot bullets.</item>
+                  <item>4 Hooke tongues for red-hot bullets.</item>
+                  <item>20 Budgebarrells with their mallets and dishes.</item>
+                  <item>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0 Coines.</item>
+               </list>
+               <list>
+                  <pb n="27" facs="tcp:51324:16"/>
+                  <head>Windlasses with their appurtenances.</head>
+                  <item>2 Windlasses compleat.</item>
+                  <item>5 Martiners or racke engins.</item>
+                  <item>2 Pullies.</item>
+                  <item>8. Brasse pullies.</item>
+                  <item>4 Crowe leavers.</item>
+                  <item>8 Leavers.</item>
+                  <item>4 Skids.</item>
+                  <item>4. Rowles.</item>
+               </list>
+               <list>
+                  <head>Thill harnisses.</head>
+                  <item>41 Thill harnisses compleat.</item>
+                  <item>41 Ridge ropes and belly bands.</item>
+                  <item>900 Traces.</item>
+                  <item>450 Collars.</item>
+               </list>
+               <list>
+                  <head>Timber for the use of the Artillery.</head>
+                  <item>150 Ioysts.</item>
+                  <item>54 Firre balkes of 22 foote long.</item>
+                  <item>200 Deales.</item>
+                  <item>200 Firre poles.</item>
+                  <item>500 Hurdles.</item>
+               </list>
+               <list>
+                  <head>Tooles.</head>
+                  <item>50 Spades.</item>
+                  <item>50 Shovells.</item>
+                  <item>50 Axes.</item>
+                  <item>50 Hatchets.</item>
+                  <item>50 Hookes or hedging bills.</item>
+                  <item>22 Pickaxes.</item>
+                  <item>22 Mattockes.</item>
+                  <item>80 Hand-pikes.</item>
+                  <item>18 Crowe lewers.</item>
+                  <item>2 Hand Rammers.</item>
+                  <item>8 Slings to carry powder.</item>
+                  <item>4 Hand barrowes to carry powder.</item>
+               </list>
+               <list>
+                  <head>Nailes.</head>
+                  <item>4000 Large nailes.</item>
+                  <item>1000 Nailes of 6 inches.</item>
+                  <item>2000 Nailes of 5 inches.</item>
+                  <item>3000 Double middle nailes.</item>
+                  <pb n="28" facs="tcp:51324:17"/>
+                  <item> 6000 Single middle nailes.</item>
+                  <item>8000 Spikes.</item>
+                  <item>All manner of bolts and lints-pins for the Carriages and fore-carriages.</item>
+               </list>
+               <list>
+                  <head>Lights.</head>
+                  <item>200 Pound of Candles.</item>
+                  <item>12 Woodden Lanthornes.</item>
+                  <item>4 Barrels of Beacon lights.</item>
+                  <item>4 Lampes.</item>
+               </list>
+               <list>
+                  <head>Cordage.</head>
+                  <item>2 Whole Draught Ropes to draw the Ordnance by men.</item>
+                  <item>3 Halfe Draught ropes to draw the Ordnance by men.</item>
+                  <item>22 Ropes to guide the Ordnance.</item>
+                  <item>20 Draught ropes to draw the Shipping by Horses.</item>
+                  <item>3 Draught ropes to draw the Shipping by Men.</item>
+                  <item>2 pound of twine.</item>
+                  <item>6 pound of packthred to whip about the Lines.</item>
+               </list>
+               <list>
+                  <head>Severall things.</head>
+                  <item>1000 pound of iron for the Smith.</item>
+                  <item>1 Chaldron of Seacoale.</item>
+                  <item>Smiths tooles.</item>
+                  <item>Carpenters tooles.</item>
+                  <item>80 Haire Tiltes.</item>
+                  <item>140 Sheepes skinnes.</item>
+                  <item>6 Leather buckets.</item>
+                  <item>570 Square baskets.</item>
+                  <item>400 pound of hogs grease.</item>
+                  <item>6 Grease boxes.</item>
+               </list>
+               <list>
+                  <head>Draught Horses for the Artillery.</head>
+                  <item>For 4 whole Canons, on their blocke Carriages, 11 couple a peece, is, 88</item>
+                  <item>For 8 demy Canons, at 9 couple a peece, is 144</item>
+                  <item>For 3 field-peeces, at 5 couple a peece, is 30</item>
+                  <item>For 6 Carriages for whole Canons, at 4 couple a peece, is 48</item>
+                  <item>For 4 Carriages for demy Canons, at 3 couple a peece is, 24</item>
+                  <pb n="29" facs="tcp:51324:17"/>
+                  <item> For 2 blocke carriages, at 1 couple a peece, 4</item>
+                  <item>For 8 Drugges at 1 couple a peece, 16</item>
+                  <item>For 6 Waggons to carry Harquebuses a crocke, 4 cou<g ref="char:EOLhyphen"/>ple apeece, 48</item>
+                  <item>For 8 Mill-waggons, at 4 couple apeece, 48</item>
+                  <item>Spare Horses, 20 couple, is 40</item>
+                  <item>
+                     <hi>Summe of the Draught Horses,</hi> 490.</item>
+               </list>
+               <list>
+                  <head>Officers of the Artillery.</head>
+                  <item>The Generall of the Artillery <hi>Kessel.</hi>
+                  </item>
+                  <item>His Lieutenant <hi>Grena.</hi>
+                  </item>
+                  <item>Controller of the Artillery <hi>Monier.</hi>
+                  </item>
+                  <item>Commissary of the Artillery, <hi>Wtenbrouck,</hi>
+                  </item>
+                  <item>10 Gentlemen of the Ordnance.</item>
+                  <item>25 Conductors.</item>
+                  <item>6 Ingeniers (namely <hi>A.B.C.</hi>) every man having his Conductor.</item>
+                  <item>2 Controllers of the Fortifications, (namely <hi>A.B.C.</hi>) each of them having his Conductor, Commissary, and Clarke.</item>
+                  <item>The Master Gunner, <hi>A.B.</hi>
+                  </item>
+                  <item>36 Canoniers.</item>
+                  <item>The Master of the fireworkes, with 2 Conductors.</item>
+                  <item>The Petardier.</item>
+                  <item>2 Battery Masters.</item>
+                  <item>The Master Carpenter, <hi>M.N.</hi>
+                  </item>
+                  <item>His Lieutenant, <hi>O.P.</hi>
+                  </item>
+                  <item>12 Journymen Carpenters.</item>
+                  <item>2 Wheelewrights.</item>
+                  <item>2 Smiths.</item>
+                  <item>1 Gabion maker.</item>
+                  <item>2 Wheele-greasers.</item>
+                  <item>1 Cooper.</item>
+                  <item>The Provost of the Artillery, with his servants.</item>
+                  <item>The Chirurgeon of the Artillery.</item>
+                  <item>The Commissary of the Draught Horses.</item>
+                  <item>His 11 Conductors, divided as followeth? To each of the 6 peeces of whole Canon, 1. To each of the 3
+<pb n="30" facs="tcp:51324:18"/>field peeces, 1. To the carriages and fore carriages, 1.</item>
+                  <item>2 Captaines of the Pioners, <hi>A.B.</hi> and <hi>C.D.</hi>
+                  </item>
+                  <item>100 Pioners, 50 to each Captaine.</item>
+                  <item>The Captaine of the Miners, <hi>E. F.</hi>
+                  </item>
+                  <item>25 Miners.</item>
+                  <item>4 Sea Captaines.</item>
+                  <item>240 Mariners, 60 to each Captaine.</item>
+               </list>
+            </div>
+            <div n="15" type="chapter">
+               <head>
+                  <hi>CHAP. XV.</hi> The List of the Munitions of Warre.</head>
+               <list>
+                  <head>Powder, Match, and Bullets.</head>
+                  <item>45000 pound of Powder for Muskets.</item>
+                  <item>45000 pound of Match.</item>
+                  <item>45000 pound of cast Musket Bullets.</item>
+               </list>
+               <list>
+                  <head>Armes.</head>
+                  <item>200 Muskets.</item>
+                  <item>800 Whole Pikes</item>
+                  <item>50 Halfe Pikes</item>
+                  <item>50 Targets.</item>
+               </list>
+               <list>
+                  <head>Tooles.</head>
+                  <item>10000 Spades.</item>
+                  <item>2000 Shod shovels</item>
+                  <item>1000 Mattockes</item>
+                  <item>500 Pickaxes</item>
+                  <item>1200 Axes</item>
+                  <item>600 Hatchets</item>
+                  <item>600 Hookes or hedging bils.</item>
+                  <item>4 Crowes of iron.</item>
+               </list>
+               <list>
+                  <head>Timber.</head>
+                  <item>1600 Deales</item>
+                  <item>25 Split Deales</item>
+                  <item>1500 Firre Sparres</item>
+                  <item>100 Firrebalkes of 22. foote</item>
+                  <item>100 Firrebalkes of 25 foote.</item>
+               </list>
+               <list>
+                  <pb n="31" facs="tcp:51324:18"/>
+                  <head>Nailes.</head>
+                  <item>2000 of 7 inches.</item>
+                  <item>2500 of 6 inches.</item>
+                  <item>3000 of 5 inches.</item>
+                  <item>20000 double middle Nailes.</item>
+                  <item>20000 single middle Nailes.</item>
+                  <item>10000 large Spikes.</item>
+                  <item>10000 Spikes.</item>
+               </list>
+               <list>
+                  <head>Lightes.</head>
+                  <item>100 pound of candles.</item>
+                  <item>8 Woodden Lanthornes.</item>
+                  <item>2000 Beacon Lights.</item>
+                  <item>6 Lampes.</item>
+               </list>
+               <list>
+                  <head>Severall things.</head>
+                  <item>1000 Wheele-barrowes compleate.</item>
+                  <item>100 Spare Spindles.</item>
+                  <item>30 Rush-bridges, with their cordes.</item>
+                  <item>50 Haire Tiltes.</item>
+                  <item>100 Square baskets.</item>
+                  <item>600 Bagges to carry earth.</item>
+                  <item>30 Ship-pullies.</item>
+                  <item>100 Quartering staves.</item>
+                  <item>10 Draught lines to draw up the Munitions.</item>
+                  <item>1200 pound of line, of all sorts, from penny lines upwards.</item>
+                  <item>8 Musket-bullet-mouldes, of 12 holes a peece.</item>
+                  <item>8 Melting-ladles.</item>
+               </list>
+               <list>
+                  <head>Officers of the Munitions of Warre.</head>
+                  <item>The Commissary, <hi>A.B.</hi>
+                  </item>
+                  <item>20 Conductors.</item>
+               </list>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="32" facs="tcp:51324:19"/>
+               <head>
+                  <hi>CHAP. XVI.</hi> The List of the Waggons.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the List of the Waggons, the same order is observed as before, namely, first, the Wag<g ref="char:EOLhyphen"/>gons for the Officers of the field; secondly, for the foote; thirdly, for the Horse; fourth<g ref="char:EOLhyphen"/>ly, for the Artillery; fifthly, for the Muni<g ref="char:EOLhyphen"/>tions; and sixthly, for the Victuall.</p>
+               <list>
+                  <head>Waggons for the Officers of the field.</head>
+                  <item>For his <hi>Excellence.</hi> 66</item>
+                  <item>For Count <hi>Henry,</hi> Generall of the Horse, 30</item>
+                  <item>His Lieutenant <hi>Marquette,</hi> 6</item>
+                  <item>Sergeant Major Generall, <hi>Sedleneski,</hi> 3</item>
+                  <item>Commissary Generall of the Horse, <hi>Stakenbrooke,</hi> 2</item>
+                  <item>Quarter-master Generall, <hi>Solemne,</hi> 1</item>
+                  <item>Provost Generall, 3</item>
+                  <item>Advocate, Fiscall, and Secretary, 2</item>
+                  <item>Commissary of the Treasury, 2</item>
+                  <item>Waggon-master, Generall <hi>Doublet,</hi> his Lieutenant, Conductors, Wheelewrights, Smiths, and Cordage, 7</item>
+                  <item>Quarter master Generall for the Horse, <hi>A.B.</hi> 1</item>
+                  <item>The Provost of the Water, 1</item>
+                  <item>Two Surgeons of the Armies, 2</item>
+                  <item>Three Chaplaines. 3</item>
+                  <item>
+                     <hi>Summe of the Waggens for the Officers of the field,</hi> 129</item>
+               </list>
+               <list>
+                  <head>Waggons for the Infantery.</head>
+                  <item>For 12 Captaines of Generall <hi>Vere</hi> his Regiment, 12</item>
+                  <item>2 Captaines of Collonell <hi>Ogles</hi> Regiment, 2</item>
+                  <item>Generall <hi>Cecill,</hi> 12</item>
+                  <item>2 Collonels, 4 Waggons a peece 8</item>
+                  <item>3 Lieutenant Collonels, <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a peece 6</item>
+                  <item>3 Sergeant <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>3 Quarter <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>3 Provost <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <pb n="33" facs="tcp:51324:19"/>
+                  <item> 2 Chaplaines, one apeece, 2</item>
+                  <item>The Surgeon Mr. <hi>James.</hi> 2</item>
+                  <item>52 Captaines, 52</item>
+                  <item>Collonell <hi>Chastillon</hi> 6</item>
+                  <item>His Lieutenant Collonell, and Sergeant major, 2</item>
+                  <item>Surgeon and Provost, 1</item>
+                  <item>19 Captaines, 19</item>
+                  <item>Collonell <hi>Bethune,</hi> 6</item>
+                  <item>His Lieutenant, and Sergeant major, 2</item>
+                  <item>Surgeon and Provost, 1</item>
+                  <item>19 Captaines, 19</item>
+                  <item>The Lieutenant Collonell of Count <hi>Ernest,</hi> 1</item>
+                  <item>Sergeant major, and Quarter master, 1</item>
+                  <item>Surgeon and Provost, 1</item>
+                  <item>6 Captaines, 6</item>
+                  <item>Count <hi>John Ernest;</hi> 5</item>
+                  <item>His Lieutenant Collonell, 1</item>
+                  <item>Sergeant major, and Quartermaster, 1</item>
+                  <item>Surgeon and Provost, 1</item>
+                  <item>16 Captaines, 16</item>
+                  <item>4 Captaines of the 4 guards, 4</item>
+                  <item>The Lieutenant and Ensigne of his <hi>Excellences</hi> guard, 1</item>
+                  <item>For the Armes of the said guard, 1</item>
+                  <item>The Lieutenant Collonell of the <hi>Frisons,</hi> 2</item>
+                  <item>Sergeant major, and Quartermaster, 1</item>
+                  <item>8 Captaines, 8</item>
+                  <item>The Commissary of the Waggons. 1</item>
+                  <item>
+                     <hi>Summe of the Waggons for the Foote,</hi> 212</item>
+               </list>
+               <list>
+                  <head>Waggons for the Cavallery.</head>
+                  <item>10 Collonels of Horse, at 1 apeece, 10</item>
+                  <item>The Lieutenant and Cornet of his <hi>Excellence</hi> his Troope, 1</item>
+                  <item>For the Armes, 1</item>
+                  <item>
+                     <hi>Summe of the Waggons for the Horse,</hi> 12</item>
+               </list>
+               <list>
+                  <head>Waggons for the Artillery.</head>
+                  <item>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>0000 pound of Powder, 59</item>
+                  <pb n="36" facs="tcp:51324:20"/>
+                  <item> For the Horse<gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>For the Artillery <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>For the Munition<gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>For the Victuall<gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>Summe <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+               </list>
+            </div>
+            <div n="17" type="chapter">
+               <head>
+                  <hi>CHAP. XVII.</hi> The List of the Shipping.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Ccording to the Order before mentioned, first are to be set downe, the</p>
+               <list>
+                  <head>Ships for the Officers of the Army.</head>
+                  <item>His <hi>Excellence,</hi> 20</item>
+                  <item>Count <hi>Henry,</hi> ships and boates, 12</item>
+                  <item>The Captaine Generall of the watch <hi>Sedleneski,</hi> 1</item>
+                  <item>The Quarter master Generall <hi>Solemne,</hi> 1</item>
+                  <item>The Provost Generall with his servants &amp; Mariners, 1</item>
+                  <item>The Advocate, Fiscall, and the Secretary to the Coun<g ref="char:EOLhyphen"/>cell of warre are to be shipped in a Munition ship.</item>
+                  <item>The Commissary of the Treasury, 1</item>
+                  <item>The Waggon Master with his Conductors, 1</item>
+                  <item>The 2 Surgeons of the Army, and the Apothecary, 1</item>
+                  <item>
+                     <hi>Summe of the Ships for the Officers of the field,</hi> 38</item>
+               </list>
+               <p>There be other Officers, as of the Artillery, Munitions of warre, Victuall, and of the shipping; but seeing that they accommodate themselves in those ships, which are laden with the goods which they have the command of, they need no other ships.</p>
+               <list>
+                  <head>Ships for the Infantery.</head>
+                  <item>For the Regiment of <hi>English,</hi> 2</item>
+                  <item>For the Regiment of <hi>Scots,</hi> 2</item>
+                  <item>For 2 Regiments of <hi>French,</hi> 3 ships apeece, 6</item>
+                  <item>For the Regiment of <hi>Dutch,</hi> under Count <hi>Ernest,</hi> 1</item>
+                  <item>For the Regiment of <hi>Wallons,</hi> 2</item>
+                  <pb n="37" facs="tcp:51324:20"/>
+                  <item> For the foure guards, 1</item>
+                  <item>For the Armes and baggage of the guardes, 1</item>
+                  <item>For the Beginnent of <hi>Frisons,</hi> 1</item>
+                  <item>For the <hi>English</hi> marching with Count <hi>Henry,</hi> 2</item>
+                  <item>For the Regiment of Lieutenant Collonell <hi>Meetker<g ref="char:EOLhyphen"/>k<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>,</hi> 1</item>
+                  <item>
+                     <hi>Summe of the ships for the Infantery,</hi> 19</item>
+               </list>
+               <list>
+                  <head>Shippes for the Cavallery,</head>
+                  <item>For 11 Regiments of Horse, 1 ship apeece, 12</item>
+                  <item>For the Armes and baggage of his Excellence his Troope, 1</item>
+                  <item>
+                     <hi>Summe of the ships for the Cavallery,</hi> 12</item>
+               </list>
+               <list>
+                  <head>Ships for the Artillery.</head>
+                  <item>These are of three sorts,
+<list>
+                        <item>1 for the Officers of the Ar<g ref="char:EOLhyphen"/>tillery;</item>
+                        <item>2 for the brasse Ordnance, with their carriages and blocke carriages;</item>
+                        <item>3 for the munitions of the Artil<g ref="char:EOLhyphen"/>lery.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Ships for the Officers of the Artillery.</head>
+                  <item>The Generall of the Artillery, 1</item>
+                  <item>The Ingeniers, Controllers, and Conductors of the Fortifications, and of the workes, 1</item>
+                  <item>The Ingenier, <hi>A.B.</hi> 1</item>
+                  <item>The Master Gunner, with all the Canoniers, 1</item>
+                  <item>The Master Carpenter Generall, with all his Worke<g ref="char:EOLhyphen"/>men, 1</item>
+                  <item>The Commissary of the draught horses, with his Conductors and Utensils, 1</item>
+                  <item>Wheelewrights, Smiths, Ropemakers, and their mate<g ref="char:EOLhyphen"/>rials, 1</item>
+                  <item>Two Captaines of Pioners, makers of Fireworkes, and Petardiers, 1</item>
+                  <item>
+                     <hi>Summe of the ships for the Officers of the Artillery,</hi> 8</item>
+               </list>
+               <list>
+                  <head>Ships for the brasse Ordnance, with their carriages, and blocke-carriages.</head>
+                  <item>These peeces with their carriages are shipped in the
+<pb n="38" facs="tcp:51324:21"/>ship for Bridges, which shall be hereunder mentioned.
+<list>
+                        <head>Ships for the Munitions of the Artillery.</head>
+                        <item>960 Barrells of Powder, in 4 Carvels, is 4</item>
+                        <item>3000 Bullets of 48 pound weight in 4 Hoyes, 4</item>
+                        <item>6000 Bullets of 24 pound, in 4 Hoyes, 4</item>
+                        <item>For the Petards and appurtenances, 1 Hoy, 1</item>
+                        <item>For the Cordage, Match, Latten bullet-cases, and o<g ref="char:EOLhyphen"/>ther things, one carvell, 1</item>
+                        <item>For 500 hurdles and some baskets, one carvell, 1</item>
+                        <item>150 Fire Joysts, and some baskets, one carvell, 1</item>
+                        <item>200 Deales, and 200 Firre poles, 1 Ship, 1</item>
+                        <item>For some Cordage, collers, Ladles, &amp;c. 1 ship, 1</item>
+                        <item>1200 Bullets of 12 pound, one small Hoy, 1</item>
+                        <item>
+                           <hi>Summe of the shiping for the Munition of the Artillery,</hi> 19</item>
+                        <item>
+                           <hi>Summe of the Ships for the Artillery,</hi> 27.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Ships for the Munitions of warre.</head>
+                  <item>45000 pound of Powder,</item>
+                  <item>45000 pound of Match,</item>
+                  <item>45000 pound of Musket-bullets,</item>
+                  <item>50 Haire Titls,</item>
+                  <item>8 Mouldes,</item>
+                  <item>8 Ladles,</item>
+               </list>
+               <p>All which was laden in 4 shippes of 40 Tunne apeece, and one Hoy together, 5</p>
+               <list>
+                  <item>200 Muskets,</item>
+                  <item>800 Pikes,</item>
+                  <item>50 Halfe pikes,</item>
+                  <item>50 Targets,</item>
+                  <item>12 Lanthornes,</item>
+                  <item>100 pound of candles,</item>
+                  <item>6 Lampes,</item>
+                  <item>2000 Beacon Lights.</item>
+                  <item>Nailes of all sorts,</item>
+                  <item>100 Quartering staves,</item>
+                  <item>600 bags to carry earth,</item>
+                  <pb n="39" facs="tcp:51324:21"/>
+                  <item> 10 Draught Ropes,</item>
+                  <item>12000 pound of Cordage,</item>
+                  <item>30 Ship-pullies,</item>
+                  <item>100 Square baskets,</item>
+               </list>
+               <p>All which was laden in a Hoy, is 2</p>
+               <p>30 Rush-bridges, with the cordage thereunto belong<g ref="char:EOLhyphen"/>ing, laden in a ship of 40 Tunne, and a Hoy, is 2</p>
+               <list>
+                  <item>10000 Spades,</item>
+                  <item>2000 Shovels,</item>
+                  <item>1000 Mattockes,</item>
+                  <item>500 Pick-axes,</item>
+                  <item>1200 Axes,</item>
+                  <item>600 Hatchets,</item>
+                  <item>600 Hookes,</item>
+               </list>
+               <p>All which was laden in three Hoyes, is 3</p>
+               <list>
+                  <item>10000 Wheele-barrowes,</item>
+                  <item>100 Wheeles,</item>
+                  <item>100 Spindles,</item>
+                  <item>25 Split Deales,</item>
+               </list>
+               <p>All which was laden in three ships of 40 Tun apeece, 3</p>
+               <list>
+                  <item>1500 Deales.</item>
+                  <item>1500 Firre poles,</item>
+                  <item>200 Firre balkes,</item>
+                  <item>10 Draught Ropes,</item>
+                  <item>4 Crowes of Iron,</item>
+               </list>
+               <p>All which were laden in three shipsof 40 Tun apeece, 3</p>
+               <list>
+                  <item>
+                     <hi>Summe of the ships for the munitions of warre, whereof</hi> 11 <hi>were of</hi> 40 <hi>Tunne, and</hi> 6 <hi>Hoyes together,</hi> 17</item>
+               </list>
+               <list>
+                  <head>Ships for the Victuall.</head>
+                  <item>These were in all, 66</item>
+               </list>
+               <list>
+                  <head>Ships for Bridges.</head>
+                  <item>17 Lyters for the Ordnance with the appurenances, 17</item>
+                  <item>One great Ferry Hoy, 1</item>
+                  <item>One small Ferry Hoy, 1</item>
+                  <item>6 Boates of small bridges, with their waggons, and horse furniture, 6</item>
+                  <pb n="40" facs="tcp:51324:22"/>
+                  <item> One flat-bottom'd Boate to carry the waggons and their appurtenances aboard the Hoyes, 1</item>
+                  <item>
+                     <hi>Summe of the Bridgeships,</hi> 26</item>
+               </list>
+               <p>The Persons belonging to the Bridge-ships, which ac<g ref="char:EOLhyphen"/>commodate themselves in their owne shippes, are as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>The Bridge-master. His Lieutenant. 83 Lytermen, thus divided; In 15 great Lyters, 4 apeece. In 2 sinaller Lyters, 3 apeece. In the great Ferry Hoy 3. In the small Ferry Hoy 2. With every 6 Boates for Bridges 1. In the flat bottom'd boate 3. Ship-Carpenters 3.</p>
+               <list>
+                  <head>Ships for severall uses.</head>
+                  <item>The Commissary of the shipping, with his condu<g ref="char:EOLhyphen"/>ctors, 1</item>
+                  <item>One ship and 4 small Hoyes for the Conductors and Commissaries of shipping, and for things accidentall, 5</item>
+                  <item>6 Small Hoyes to move up and downe, for Messengers and wounded Souldiers. 6</item>
+                  <item>
+                     <hi>Summe of the ships for severall uses,</hi> 12</item>
+               </list>
+               <list>
+                  <head>Summa summarum of the shipping.</head>
+                  <item>For the Officers of the Field, 38</item>
+                  <item>For the Infantery, 19</item>
+                  <item>For the Cavallery, 12</item>
+                  <item>For the Artillery, 27</item>
+                  <item>For the Munitions of warre, 17</item>
+                  <item>For the Victuall, 66</item>
+                  <item>For the Bridges, 26</item>
+                  <item>For severall uses, 12</item>
+                  <item>
+                     <hi>Summe totall of the shipping,</hi> 217</item>
+               </list>
+               <p>Here is no particular List of the Victuall mentioned, for that the States Army is usually supplyed by Sutlers, and Merchants, and the neighbour Townes.</p>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="41" facs="tcp:51324:22"/>
+               <head>
+                  <hi>CHAP. XVIII.</hi> Of designing the Quarters for the Army.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Eing that divers Quarters are to be made for the said Armie (as 11 for the 11 Regiments of Infanterie, &amp; as many for so many Regiments of Cavallrie, besides the other Quarters) It were a worke of infinite trouble to make a designe for the con<g ref="char:EOLhyphen"/>venient placing of them, and that in hast, (for that upon viewing of the ground, it is presently to be done) but that there is this helpe to be used.</p>
+               <p>Every one of the said Quarters must be drawne (be<g ref="char:EOLhyphen"/>fore-hand) upon severall peeces of fine past-board (such as our playing Cardes are made of) which must be so cut as that they all may have 300 foote in depth, and so many foote in breadth as every list will require. As for Example, General <hi>Ʋere</hi> his Regiment having 300 foote in depth and 580 foote in breadth, (as was shewed in Chapter 12) you must cut a peece of past-board of just such a scantling (according to some small scale) and then write upon it the Collonells name, and the mea<g ref="char:EOLhyphen"/>sure of the breadth, as here is shewed. (Some would al<g ref="char:EOLhyphen"/>so have the number of Companies and of the Files of Huts requisite for them to be mentioned on every past<g ref="char:EOLhyphen"/>board, as you see it in Chapter 21. Figure 13. which I conceive to be commendable.) And so for all the rest.</p>
+               <figure>
+                  <head>Figure <hi>8.</hi>
+                  </head>
+               </figure>
+               <pb n="42" facs="tcp:51324:23"/>
+               <p> All these past-boards you must so often move and re<g ref="char:EOLhyphen"/>move, untill they lye in such order as ye desire to have them. And for the more ready doing of it, you must draw certaine parallell lines upon a sheete of paper, of 50 foote distance, for the streets, with spaces of 300 foot,
+<figure>
+                     <head>Figure <hi>8.</hi>
+                     </head>
+                  </figure>
+                  <pb n="43" facs="tcp:51324:23"/>(as is shewed in figure 8.) thereby the better to lay the said past-boards in order.</p>
+               <p>In making the said Quarters, his <hi>Excellence</hi> having caused the ground to be viewed, resolved not to quarter the Horse, the waggons, the <hi>English</hi> under Generall <hi>Cecill,</hi> nor the <hi>Scots,</hi> within the Campe: so the past-boards of
+<figure>
+                     <head>Figure <hi>9.</hi>
+                     </head>
+                  </figure>
+                  <pb n="44" facs="tcp:51324:24"/>their Quarters being laid aside, the rest were ordered as in the 9. Figure.</p>
+               <p>Yet if in the placing of these Quarters, you find that the Quarter would be more regular, if some of them were somewhat enlarged or lessened; in such cases you may somewhat alter the Quarters of the Waggons, Market, Artillery, Victuall, Strangers, and the ground for the Generalls Quarter. But the Regiments of foote and Horse, the Quarters for the Generall of the Artillery, and the Generals lodgings, must not be altered.</p>
+               <p>According to the past-boardes so placed, the designe is to be drawne upon paper, with allarme places on all sides, as is shewed in Figure 10.</p>
+               <figure>
+                  <head>Figure <hi>10.</hi>
+                  </head>
+               </figure>
+               <pb n="45" facs="tcp:51324:24"/>
+               <p> And of these designes it is good to have some in rea<g ref="char:EOLhyphen"/>dinesse before hand, some with Cavalry, and othersome without, to stand in stead on a sudden occasion.</p>
+               <p>
+                  <hi>A.</hi> Is a voyd space of ground, for men to meet and walke in, which have businesse at Court.</p>
+               <p>
+                  <hi>B.</hi> and <hi>C.</hi> were spaces left for Count <hi>William,</hi> and Count <hi>Henry</hi> of <hi>Nassau.</hi>
+               </p>
+               <p>
+                  <hi>D.</hi> is the Allarme place, on each side of the Quarters.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>
+                  <hi>CHAP. XIX.</hi> Of measuring out the Quarters in the Field.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving appointed (by the said paper designe) in what order the Quarters shall be made in the field, there must be 150. Quartering staves (more or lesse, according to occasion) brought into the field: (which are painted staves of some 9. foote long, each of them having a little banner at the top, (as was usuall among the <hi>Romans</hi>) to be placed at the Angels of each Quarter. Of these, foure are marked with figure 1. foure with 2. and the rest so ri<g ref="char:EOLhyphen"/>sing. You must also have a surveying instrument and a chaine, divided into rods and feete.</p>
+               <p>Then you are to marke out the circuit of the whole Quarter, by foure exteriour lines; so that each corner of the Quarter make a right Angel; setting a quartering staffe in each of them.</p>
+               <p>Then you are to measure out the particular Quarters; and so soone as the ground of one Regiment be laid out, the particular Quarter-master of that Regiment takes notice of it (for all the particular Quarter-masters, at<g ref="char:EOLhyphen"/>tend the Quarter-master Generall in this work;) So (all the quarters being measured out) the said staves will stand, as is shewed in figure 11.</p>
+               <pb n="46" facs="tcp:51324:25"/>
+               <figure>
+                  <head>Figure <hi>11.</hi>
+                  </head>
+               </figure>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. <hi>XX.</hi> Of subdividing the particular Quarters.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Ecause this worke is to be performed with all possible expedition, every Quarter-master presently falls to subdivide his quarter; Suppose the Angles of it to be <hi>A.B.C.D.</hi> (in the figure following) he divides the ground betweene <hi>A.B.</hi> along by a line, strained from those two staves, from 8. foote, to 8. foote, (as was shewed in <hi>Chap.</hi> 3.) according to his number of men, putting downe a sticke or bough at each of them, as the prickes shew in figure 12.</p>
+               <p>That done, he doth the same in the way of the said
+<pb n="47" facs="tcp:51324:25"/>ground for the Souldiers Huts, from <hi>C.</hi> to <hi>D.</hi> (being 180. foot distant from <hi>A.B.</hi>)</p>
+               <p>Then the Sergeants of every Company presently fall to subdivide the ground for the Souldiers Huts. To doe this, they must precisely know how many Huts they are to have, and what Souldiers desire to lodge together. If two files of Huts will serve his Company, he straines foure lines from the markes made by his Quarter-master, as in the said figure is she wed by <hi>A, D. E, F. G, H.</hi> and <hi>I, K.</hi> And to set forth the ground for every Hut, he prickes downe foure stickes, to give direction where the foure corner posts of every Hut shall stand. So then the Souldiers build their owne Huts accordingly.</p>
+               <p>The Sergeants must take care that no Souldier build otherwise, than precisely as his ground is allowed him, and to this the Quartermasters, Captaines, and Collo<g ref="char:EOLhyphen"/>nels must have an Eye.</p>
+               <p>This direction give for the measuring out of a Regi<g ref="char:EOLhyphen"/>ment of foot, will give sufficient light for the measuring out of all the other quarters.</p>
+               <figure>
+                  <head>Figure <hi>12.</hi>
+                  </head>
+               </figure>
+               <pb n="48" facs="tcp:51324:26"/>
+               <p> Whilest the Sergeants are busie about this worke, the Quarter-masters proceed to lay out the ground for the Captaines lodgings, and for the Sutlers Huts, as is shew<g ref="char:EOLhyphen"/>ed in figure 1.</p>
+            </div>
+            <div n="21" type="chapter">
+               <head>CHAP. <hi>XXI.</hi> Of measuring out the Allarme place, and making the retrenchment.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Romans used not to fortifie their Compes, but were quartered in the open fieldes, with<g ref="char:EOLhyphen"/>out any defence, untill they learned it of <hi>Pyrrhus,</hi> King of <hi>Epirus,</hi> (who was the first that environed his Campe with a Rampart, as<note n="(a)" place="margin">S<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>a<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g li. <hi>4.</hi> cap <hi>1.</hi>
+                  </note>
+                  <hi>Frontinus</hi> affirmeth. But afterwards they obser<g ref="char:EOLhyphen"/>ved it, and found it to be most safe and necessary, as<note n="(b)" place="margin">
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note>
+                  <hi>Vegetius</hi> and<note n="(c)" place="margin">
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ct. c. <hi>11.</hi>
+                  </note>
+                  <hi>Leo</hi> testifie: which custome is still (for many good reasons) continued in our moderne warres.</p>
+               <p>The Quarters being all measured out, an Ingenier with his Conductos, measure out on every side of the gene<g ref="char:EOLhyphen"/>rall quarter, two right Parallell lines, 6 foot distant from each other, for the breadth of the Moate; whereof the innermost line is 206 foote distant from the Quarters; whereof 6 foote is allowed for the breadth of the Para<g ref="char:EOLhyphen"/>pet, and 200. foote remaineth for the Allarme place. Then (with the helpe of 50. or 60. Pioners) they cut a furrow (about halfe a foote broad, and halfe a foote deepe) along the said two lines, by strained cordes, to direct the Souldiers in their making of the Trenches.</p>
+               <p>This done, you must calculate how many foote each Regiment must digge (which the Infantry are to doe, without any salary for the same, it being for their owne security and ease.) To this end, looke in <hi>Chap.</hi> 18. <hi>figure</hi> 10. and you shall finde that the two longest sides to be digged, are 2000. foote apeece, and the two shortest
+<pb n="49" facs="tcp:51324:26"/>sides are 1750. foote apeece, which together make 7500. foote: Whereunto there be 8560. Souldiers in severall Regiments (as appeareth in Chap. 12.) namely,
+<table>
+                     <row>
+                        <cell>
+                           <hi>Vere,</hi>
+                        </cell>
+                        <cell>1320</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chastillon,</hi>
+                        </cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bethune,</hi>
+                        </cell>
+                        <cell>1660</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Frisons,</hi>
+                        </cell>
+                        <cell>760</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Count John Ernest,</hi>
+                        </cell>
+                        <cell>1310</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The</hi> 4 <hi>Guardes,</hi>
+                        </cell>
+                        <cell>800</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Count Ernest.</hi>
+                        </cell>
+                        <cell>1050</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">
+                           <hi>Summe</hi> 8560. <hi>Souldiers must digge</hi> 7500. <hi>foot.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Then you may calculate (by the rule of three) and say, if 8560. Souldiers must digge 7500. foot, what must 1320 Souldiers of Generall <hi>Vere</hi> his Regiment? <hi>fa<g ref="char:EOLhyphen"/>cit</hi> 1157 foot; which you are to set down by <hi>Vere;</hi> and so for the rest. So the computation will stand thus,
+<table>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Foote.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Vere,</hi>
+                        </cell>
+                        <cell>1320</cell>
+                        <cell>Souldiers must digge 1157</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Chastillon,</hi>
+                        </cell>
+                        <cell>1660</cell>
+                        <cell>1454</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bethune,</hi>
+                        </cell>
+                        <cell>1660</cell>
+                        <cell>1454</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Frisons,</hi>
+                        </cell>
+                        <cell>760</cell>
+                        <cell>666</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Count John Ernest,</hi>
+                        </cell>
+                        <cell>1310</cell>
+                        <cell>1148</cell>
+                     </row>
+                     <row>
+                        <cell>4 <hi>Guardes,</hi>
+                        </cell>
+                        <cell>800</cell>
+                        <cell>701</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Count Ernest,</hi>
+                        </cell>
+                        <cell>1050</cell>
+                        <cell>920</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell cols="2">8560. <hi>Souldiers must digge</hi> 7500. <hi>foot.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The length of ground which every Regiment is to digge, is to be marked on the outside of the outward-most lockspitting, with a crosse cut in the ground. As for example, in Chap. 18. Figure 10. If you begin at the Angle <hi>H.</hi> there making a crosse, you measure from thence 1454. foot for <hi>Chastillon</hi> his Regiment, which will extend to <hi>I.</hi> where you must also make a crosse. In like manner measuring 1454. foot for <hi>Bethune</hi> his Regi<g ref="char:EOLhyphen"/>ment,
+<pb n="50" facs="tcp:51324:27"/>they will extend as farre as to the crosse <hi>I</hi> and so for the rest.</p>
+               <p>But seeing that the said Figure 10. sheweth but the Quartering of the foot onely, and but a part of them neither, (for reason before given) I have here added the figure 13. wherein all the Horse, Foot, Officers, Ar<g ref="char:EOLhyphen"/>tillery, and Waggons are Quartered, according to the severall Lists before mentioned, wherein observe that the Generals Quarter comprehendeth double the usuall ground, for some reason extraordinary.</p>
+               <p>The two Quarters for Stakenbrooke and Marquet, I conceive might more conveniently have beene placed nearer to Count <hi>Jobus</hi> Regiment of Horse; for so the street betweene <hi>Hinderson</hi> and <hi>Stakenbrooke,</hi> also that be<g ref="char:EOLhyphen"/>tweene <hi>Marquet</hi> and <hi>Bepane,</hi> would have beene wider (which are now but 30 foot wide) and the other two streetes on each side of Count <hi>John,</hi> which are now 55 foot wide, would have beene more regular.</p>
+               <p>Some would have the Moate of the Retrenchment to be seven or eight foote wide, and five or six foot deepe, and about two foot and a halfe broad at the bottome: The Parapet to be eight foot broad at the Basis (besides a foot banke of three foot broad) and six foot high; as appeareth by their <hi>Peofiles;</hi> But no certaine generall mea<g ref="char:EOLhyphen"/>sure can be set downe for the Retrenchments, because they are subject to alteration and change.</p>
+               <p>First, In regard of their forme, which must be di<g ref="char:EOLhyphen"/>rected according to the place which is to be fortifyed.</p>
+               <p>Secondly, In regard of their matter; for in some places there is good earth, in others sandy, in others moorish, &amp;c.</p>
+               <p>Thirdly, In regard of the enemies being neare, or far off; weake, or strong, &amp;c.</p>
+               <p>Fourthly, In regard of the condition and scituation of the Campe, &amp;c.</p>
+               <p>And accordingly the Retrenchments are to be fortified
+<pb n="51" facs="tcp:51324:27"/>by <hi>Tenailles, Ravelins, Redouts,</hi> and halfe <hi>Redouts, Forts, Horne-workes, Croune-workes, &amp;c.</hi> (as need and occasion shall require) observing the distance of 60. or 70. rod (being the reach of Musket shot) betweene worke and worke, on a right line.</p>
+               <p>But seeing these things doe properly belong to the Art of <hi>Fortification,</hi> and my purpose was onely to speake of <hi>Castrametation,</hi> I will put an end to this Discourse.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
